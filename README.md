@@ -1,8 +1,6 @@
 # 💻 Yann
 **`Desenvolvedor front-end`**
 
-Me chamo Yann, tenho 17 anos e sou natural de João Pessoa. Estou cursando atualmente o Ensino Médio. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
